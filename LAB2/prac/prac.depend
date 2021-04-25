@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616215843 source:f:\c++\demo\lab2\prac\prac.cpp
+	"prac.h"
+	<iostream>
+
+1616216538 f:\c++\demo\lab2\prac\prac.h
+

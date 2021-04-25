@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618001526 source:f:\c++\demo\lab6\main.cpp
+	<iostream>
+	<string>
+	"StackType.cpp"
+
+1618001526 f:\c++\demo\lab6\stacktype.cpp
+	"StackType.h"
+
+1618001526 f:\c++\demo\lab6\stacktype.h
+
+1618001526 source:f:\c++\demo\lab6\stacktype.cpp
+	"StackType.h"
+

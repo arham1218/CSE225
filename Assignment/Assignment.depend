@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616261138 source:f:\c++\demo\assignment\main.cpp
+	<iostream>
+	"Zoo.h"
+	<string>
+
+1616261138 f:\c++\demo\assignment\zoo.h
+	<iostream>
+
+1616261138 source:f:\c++\demo\assignment\zoo.cpp
+	"Zoo.h"
+	<iostream>
+	<string>
+	<math.h>
+
